@@ -23,26 +23,26 @@ repository               : "phdbui/phdbui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.jpg" #profile_backup.png
+  name             : "Cong Doan Bui"
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Russian Federation"
+  employer         : "Saint Petersburg Electrotechnical University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "congdoan6997@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=zNKl4Y4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9937-9078"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Bui+CD"
+  researchgate     : "https://www.researchgate.net/profile/Cong-Doan-Bui" # URL
   scopus           : # URL
   zotero           : # URL
 
